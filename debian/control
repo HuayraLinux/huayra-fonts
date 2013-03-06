@@ -1,0 +1,13 @@
+Source: huayra-fonts
+Section: main
+Priority: extra
+Maintainer: Miguel Angel Garcia <miguel.garcia@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Vcs-Git: git://200.55.245.7/huayra-font.git
+
+Package: huayra-fonts
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Fuentes para Huayra
+ Contiene fuentes de Omnibus-Type.com
