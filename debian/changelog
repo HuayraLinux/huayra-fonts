@@ -1,9 +1,9 @@
-huayra-fonts (1.0+nmu1) UNRELEASED; urgency=low
+huayra-fonts (2.0) testing; urgency=low
 
-  * Non-maintainer upload.
+  [ Julia Palandri ]
   * Added fonts from opendyslexic.org
 
- -- Julia Palandri <julia.palandri@gmail.com>  Thu, 07 Mar 2013 18:19:24 -0300
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 08 Mar 2013 14:01:22 -0300
 
 huayra-fonts (1.0) testing; urgency=low
 
