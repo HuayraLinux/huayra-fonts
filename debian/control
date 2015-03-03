@@ -1,10 +1,11 @@
 Source: huayra-fonts
 Section: main
 Priority: extra
-Maintainer: Miguel Angel Garcia <miguel.garcia@gmail.com>
+Maintainer: Iván Hoffmann <digital.h@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
-Vcs-Git: git://200.55.245.7/huayra-font.git
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-fonts
+Vcs-Git: https://github.com/HuayraLinux/huayra-fonts.git
 
 Package: huayra-fonts
 Architecture: all

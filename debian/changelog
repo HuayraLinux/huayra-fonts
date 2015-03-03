@@ -1,3 +1,11 @@
+huayra-fonts (2.1) torbellino; urgency=medium
+
+  * Se agregó Amatic.
+    Cambio de owner.
+    Cambio a Standars Version 3.9.6
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Tue, 03 Mar 2015 10:39:11 -0300
+
 huayra-fonts (2.0) testing; urgency=low
 
   [ Julia Palandri ]
