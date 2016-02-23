@@ -1,3 +1,9 @@
+huayra-fonts (2.2) torbellino; urgency=medium
+
+  * Se agregan fuentes Commodore 64 de Devin Cook.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Tue, 23 Feb 2016 10:57:23 -0300
+
 huayra-fonts (2.1) torbellino; urgency=medium
 
   * Se agregó Amatic.

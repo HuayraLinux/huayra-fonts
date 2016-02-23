@@ -13,3 +13,4 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Fuentes para Huayra
  Contiene fuentes de Omnibus-Type.com
  Contiene fuentes de http://opendyslexic.org/
+ Contiene fuentes Commodore 64 por Devin Cook
