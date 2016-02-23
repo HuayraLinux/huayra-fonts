@@ -1,3 +1,9 @@
+huayra-fonts (2.3) torbellino; urgency=medium
+
+  * Se agregan fuentes Play y PressStart.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Tue, 23 Feb 2016 15:17:40 -0300
+
 huayra-fonts (2.2) torbellino; urgency=medium
 
   * Se agregan fuentes Commodore 64 de Devin Cook.
